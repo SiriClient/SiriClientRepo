@@ -118,6 +118,42 @@
 
 		<!-- dependency> <groupId>org.joda</groupId> <artifactId>joda-primitives</artifactId> 
 			<version>1.0</version> </dependency -->
+
+		<!-- https://mvnrepository.com/artifact/javax.xml/jaxrpc-api -->
+		<dependency>
+			<groupId>javax.xml</groupId>
+			<artifactId>jaxrpc-api</artifactId>
+			<version>1.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/wsdl4j/wsdl4j -->
+		<dependency>
+			<groupId>wsdl4j</groupId>
+			<artifactId>wsdl4j</artifactId>
+			<version>1.6.2</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.eclipse.birt.runtime/org.apache.commons.logging -->
+		<dependency>
+			<groupId>org.eclipse.birt.runtime</groupId>
+			<artifactId>org.apache.commons.logging</artifactId>
+			<version>1.0.4.v201101211617</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.axis/axis -->
+		<dependency>
+			<groupId>org.apache.axis</groupId>
+			<artifactId>axis</artifactId>
+			<version>1.4</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/commons-discovery/commons-discovery -->
+		<dependency>
+			<groupId>commons-discovery</groupId>
+			<artifactId>commons-discovery</artifactId>
+			<version>0.2</version>
+		</dependency>
+
 	</dependencies>
 	<packaging>war</packaging>
 </project>
